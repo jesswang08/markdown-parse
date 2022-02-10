@@ -7,6 +7,7 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.ArrayList;
 
+// comment
 public class MarkdownParseTest {  // class header
     @Test  // telling us that function on next line is a test
     public void addition() {  // method header
