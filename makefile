@@ -9,3 +9,7 @@ MarkdownParse.class: MarkdownParse.java
 
 clean:
 	rm -f MarkdownParse.class MarkdownParseTest.class
+
+new:
+	make clean
+	make
