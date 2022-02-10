@@ -8,7 +8,7 @@ MarkdownParse.class: MarkdownParse.java
 	javac MarkdownParse.java
 
 clean:
-	rm -f MarkdownParse.class MarkdownParseTest.class
+	rm -f *.class
 
 new:
 	make clean
